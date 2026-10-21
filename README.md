@@ -1,42 +1,95 @@
-# 💫 About Me:
-👩‍💻 Hola, soy Celia<br><br>Desarrolladora multiplataforma especializada en ciberseguridad.<br>Me apasiona construir software seguro y encontrar vulnerabilidades<br>antes de que lo hagan otros.<br><br>🔴 Red Team<br>- Pentesting · Burp Suite · Nmap · Metasploit · WPScan · Hydra<br>- Análisis de vulnerabilidades · OWASP Top 10<br><br>🔵 Blue Team<br>- Hardening · Wazuh SIEM · Análisis forense<br>- NIST SP 800-61 · ISO/IEC 27001:2022<br><br> 💻 Desarrollo Seguro<br>- Python · Java · JavaScript<br>- Angular · Flask<br>- Control de acceso · Protección de datos<br><br>📜 Actualmente<br>Bootcamp de Ciberseguridad @ 4Geeks Academy<br><br>---<br>"La seguridad no es una capa final, es parte del proceso desde el primer commit."
+<p align="center">
+  <img src="./assets/banner.svg" alt="Hola, soy Celia — Desarrolladora multiplataforma especializada en ciberseguridad" width="100%"/>
+</p>
 
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3500&pause=900&color=ADA8FF&center=true&vCenter=true&width=620&lines=Construyo+software+seguro+desde+el+primer+commit;Encuentro+vulnerabilidades+antes+que+otros;Red+Team+%C2%B7+Blue+Team+%C2%B7+Full+Stack" alt="Typing SVG"/>
+  </a>
+</p>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/celia-urcola-rosel/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:urcolarosel2002@gmail.com) 
+<p align="center">
+  <a href="https://ceci0405.github.io/portfolio"><img src="https://img.shields.io/badge/Portfolio-211F3B?style=for-the-badge&logo=googlechrome&logoColor=ADA8FF" alt="Portfolio"/></a>
+  <!-- Cambia TU-USUARIO por tu usuario de LinkedIn -->
+  <a href="https://www.linkedin.com/in/TU-USUARIO"><img src="https://img.shields.io/badge/LinkedIn-211F3B?style=for-the-badge&logo=linkedin&logoColor=ADA8FF" alt="LinkedIn"/></a>
+  <a href="https://github.com/Ceci0405"><img src="https://img.shields.io/badge/GitHub-211F3B?style=for-the-badge&logo=github&logoColor=ADA8FF" alt="GitHub"/></a>
+</p>
 
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Astro](https://img.shields.io/badge/astro-%232C2052.svg?style=for-the-badge&logo=astro&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Ceci0405&theme=dracula&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=Ceci0405&theme=dracula&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Ceci0405&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<p align="center"><img src="./assets/divider.svg" width="80%"/></p>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Ceci0405&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+<table>
+<tr>
+<td width="62%" valign="top">
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+### 🦋 Sobre mí
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Ceci0405&limit=5&theme=dracula&combine_all_yearly_contributions=true)
+Desarrolladora multiplataforma especializada en **ciberseguridad**.
+Me apasiona construir software seguro y encontrar vulnerabilidades antes de que lo hagan otros.
 
----
-[![](https://komarev.com/ghpvc/?username=Ceci0405&icon=0&color=0)](https://visitcount.itsvg.in)
+- 🎓 DAM · Cesur Zaragoza
+- 🛡️ Especialización en Ciberseguridad · 4Geeks Academy
+- 💼 Prácticas en Grupo Orbe: herramientas web internas con auth por token, RBAC y despliegue HTTPS
+- 📍 Valencia, España
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->## Hi there 👋
+> *"La seguridad no es una capa final, es parte del proceso desde el primer commit."*
 
-<!--
-**Ceci0405/Ceci0405** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+</td>
+<td width="38%" align="center">
+  <img src="./assets/butterfly.png" width="220" alt="Mariposa"/>
+</td>
+</tr>
+</table>
 
-Here are some ideas to get you started:
+<p align="center"><img src="./assets/divider.svg" width="80%"/></p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3 align="center">🔴 Red Team</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/Burp_Suite-211F3B?style=for-the-badge&logo=burpsuite&logoColor=ADA8FF"/>
+  <img src="https://img.shields.io/badge/Nmap-211F3B?style=for-the-badge&logo=gnometerminal&logoColor=ADA8FF"/>
+  <img src="https://img.shields.io/badge/Metasploit-211F3B?style=for-the-badge&logo=metasploit&logoColor=ADA8FF"/>
+  <img src="https://img.shields.io/badge/WPScan-211F3B?style=for-the-badge&logo=wordpress&logoColor=ADA8FF"/>
+  <img src="https://img.shields.io/badge/Hydra-211F3B?style=for-the-badge&logo=hackthebox&logoColor=ADA8FF"/>
+  <img src="https://img.shields.io/badge/OWASP_Top_10-211F3B?style=for-the-badge&logo=owasp&logoColor=ADA8FF"/>
+</p>
+
+<h3 align="center">🔵 Blue Team</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/Wazuh_SIEM-211F3B?style=for-the-badge&logo=wazuh&logoColor=ADA8FF"/>
+  <img src="https://img.shields.io/badge/Hardening-211F3B?style=for-the-badge&logo=linux&logoColor=ADA8FF"/>
+  <img src="https://img.shields.io/badge/Análisis_forense-211F3B?style=for-the-badge&logo=databricks&logoColor=ADA8FF"/>
+  <img src="https://img.shields.io/badge/NIST_SP_800--61-211F3B?style=for-the-badge&logo=bookstack&logoColor=ADA8FF"/>
+  <img src="https://img.shields.io/badge/ISO%2FIEC_27001%3A2022-211F3B?style=for-the-badge&logo=iso&logoColor=ADA8FF"/>
+</p>
+
+<h3 align="center">💻 Desarrollo seguro</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-211F3B?style=for-the-badge&logo=python&logoColor=ADA8FF"/>
+  <img src="https://img.shields.io/badge/Java-211F3B?style=for-the-badge&logo=openjdk&logoColor=ADA8FF"/>
+  <img src="https://img.shields.io/badge/JavaScript-211F3B?style=for-the-badge&logo=javascript&logoColor=ADA8FF"/>
+  <img src="https://img.shields.io/badge/TypeScript-211F3B?style=for-the-badge&logo=typescript&logoColor=ADA8FF"/>
+  <img src="https://img.shields.io/badge/Angular-211F3B?style=for-the-badge&logo=angular&logoColor=ADA8FF"/>
+  <img src="https://img.shields.io/badge/Flask-211F3B?style=for-the-badge&logo=flask&logoColor=ADA8FF"/>
+</p>
+
+<p align="center"><img src="./assets/divider.svg" width="80%"/></p>
+
+<h3 align="center">📊 Estadísticas</h3>
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Ceci0405&show_icons=true&hide_border=true&bg_color=211F3B&title_color=ADA8FF&icon_color=ADA8FF&text_color=E4E2FF&ring_color=ADA8FF&locale=es" alt="GitHub stats"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ceci0405&layout=compact&hide_border=true&bg_color=211F3B&title_color=ADA8FF&text_color=E4E2FF&locale=es" alt="Top lenguajes"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Ceci0405&hide_border=true&background=211F3B&ring=ADA8FF&fire=ADA8FF&currStreakLabel=ADA8FF&sideLabels=E4E2FF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8A86C9&stroke=3D3A6B&locale=es" alt="Racha"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ceci0405&bg_color=211F3B&color=E4E2FF&line=ADA8FF&point=FFFFFF&area=true&area_color=ADA8FF&hide_border=true&title=Actividad" width="95%" alt="Gráfico de actividad"/>
+</p>
+
+<p align="center"><img src="./assets/divider.svg" width="80%"/></p>
+
+<p align="center">
+  <sub>📜 Actualmente: preparando la <b>OSCP</b> · 🦋 hecho con <code>#211F3B</code> y <code>#ADA8FF</code></sub>
+</p>
